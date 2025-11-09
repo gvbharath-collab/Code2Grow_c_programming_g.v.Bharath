@@ -17,3 +17,15 @@ day 13- the srm smart bus fare calculator
 main.c is the main code file day13_srmsmartbusfarecalculator is the .exe file
 
 
+
+day 14 - smart hotel billing
+
+
+main.c is the main source code file
+
+day14.exe is executable file 
+
+This challenge requires designing a Smart Hotel Room Booking and Billing System that manages multiple customers, their room selections, stay duration, and additional services with comprehensive billing including taxes and discounts.
+
+
+
