@@ -1,0 +1,3 @@
+
+
+In this program, we store the attendance and marks of 5 students using 2D arrays. First, we take each student's name, then their attendance (1 or 0) and their marks in 5 subjects. Using loops, we calculate how many classes each student attended, their absences, their total marks, and average marks. After that, we find who has the highest and lowest attendance, who is the topper, and who is the lowest performer. Based on the average marks, we also give grades like A+, A, B, etc. At the end, a menu is shown so the user can view different reports like attendance report, marks report, performance report, or grade report until they choose to exit.
