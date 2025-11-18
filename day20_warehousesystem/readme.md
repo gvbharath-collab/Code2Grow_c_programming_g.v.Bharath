@@ -1,1 +1,1 @@
-
+This program is a simple warehouse system made using C, where we store products using only numbers like ID, quantity, and price. We use arrays to save all products, loops to move through them, and functions to handle each task like adding items, searching, updating quantity, showing stock value, and displaying everything in a table. A 3×3 matrix is also used to check rack stock, find the highest and lowest stock, and total items. The logic is very basic: every operation just checks the array, updates values, and prints results in an easy way.
